@@ -22,5 +22,7 @@ namespace IdentityServer
                 .UseStartup<Startup>();
 
         //1
+
+        //2
     }
 }
